@@ -1,5 +1,17 @@
-{ 
-  "scene": "3",
-  "success": true,
-  "time": 5
-}
+[
+    { 
+      "scene": "simple scene0",
+      "success": true,
+      "time": 500
+    },
+     { 
+      "scene": "simple scene1",
+      "success": true,
+      "time": 250
+    },
+   { 
+      "scene": "simple scene2",
+      "success": true,
+      "time": 500
+    },
+]
